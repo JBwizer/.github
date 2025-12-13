@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dicqdr7wa/image/upload/v1765283001/JBwizer_Square_Logo_tfek5s.png" alt="JBwizer Logo" width="120">
-  <h1>JBwizer</h1>
+  <img src="https://res.cloudinary.com/dicqdr7wa/image/upload/v1765631722/JbBlack_2_q0svyy.png" alt="JBwizer Logo" width="500">
+  <hr/>
   <p><strong>Get job-ready. Apply confidently. Get hired.</strong></p>
   
   <p>
