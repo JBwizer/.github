@@ -4,7 +4,7 @@
   <p><strong>Get job-ready. Apply confidently. Get hired.</strong></p>
   
   <p>
-    Bridging the gap between education and employment through a data-driven approach.
+    Bridging the gap between education and employment through a signal-driven approach.
   </p>
 
   <a href="https://jbwizer.com">Website</a> • 
