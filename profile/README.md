@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dicqdr7wa/image/upload/v1765631722/JbBlack_2_q0svyy.png" alt="JBwizer Logo" width="500">
   <hr/>
-  <p><strong>Get job-ready. Apply confidently. Get hired.</strong></p>
+  <p><strong>Your talent. Your evidence. Your opportunity.</strong></p>
   
   <p>
-    Bridging the gap between education and employment through a signal-driven approach.
+    Bridging the hiring trust divide through an evidence-based approach.
   </p>
 
   <a href="https://jbwizer.com">Website</a> • 
@@ -18,9 +18,9 @@
 
 ## 👋 About Us
 
-**JBwizer** is an employability platform designed to solve the "Black Box" of recruitment. We guide candidates through their readiness journey and help employers find job-ready talents instantly.
+**JBwizer** is an employability intelligence and talent credibility platform that replaces unverified resume claims with objective, evidence-backed readiness diagnostics and proof of capability. 
 
-Instead of just listing jobs, we focus on **Readiness**. Our platform ensures candidate readiness before they apply, saving time for everyone.
+Instead of traditional search-and-apply boards, we focus on a **diagnose-validate-apply** workflow — helping job-seekers prove their abilities and helping employers trust applicants instantly.
 
 ---
 
@@ -30,5 +30,5 @@ The system is currently in development.
 For inquiries or partnerships, please contact us via our [website](https://jbwizer.com) or email.
 
 <div align="center">
-  <small>&copy; 2025 JBwizer.</small>
+  <small>&copy; 2026 JBwizer.</small>
 </div>
